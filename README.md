@@ -7,6 +7,10 @@ This repository contains a benchmark tool for the QPoW (Quantum Proof of Work) a
 *   **Rust:** Ensure you have Rust installed. You can get it from [rustup.rs](https://rustup.rs/).
 *   **Python 3:** Ensure you have Python 3 installed. You can get it from [python.org](https://www.python.org/).
 
+## Access
+
+This repository refers to a private repository on gitlab, you need to (A) have access, and (B) set up your access, either SSH key or PAT.
+
 ## Setup
 
 1.  **Clone the repository (if you haven't already):**

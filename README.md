@@ -67,6 +67,10 @@ To visualize the benchmark results:
     python plot_nonces.py your_output_file.txt
     ```
 
+## Example output
+
+![Benchmark Plot](https://raw.githubusercontent.com/Resonance-Network/qpow-benchmark/refs/heads/main/difficulty_vs_metrics.png)
+
 ## Understanding the Output
 
 The benchmark outputs lines in the following format for each difficulty tested:
@@ -80,3 +84,4 @@ The Python script generates a plot showing:
 *   Average Time per Solution vs. Difficulty
 *   The overall average hash rate calculated across all successful samples.
 *   The detected CPU information in the plot title.
+

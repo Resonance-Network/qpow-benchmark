@@ -1,0 +1,10 @@
+[package]
+name = "qpow-benchmark"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+qpow-math = { git = "https://gitlab.com/resonance-network/backbone.git", default-features = false }
+rand = "0.8"
+rayon = "1.8"
+hex = "0.4"
